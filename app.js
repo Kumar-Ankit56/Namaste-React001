@@ -1,4 +1,6 @@
 //Creating two sibiling chiderean with two adject h1 element this is how we can do it.
+import React from "react";
+import ReactDOM from "react-dom";
 
 const parent = React.createElement("div", { id: "parent" }, [
   React.createElement("div", { id: "child" }, [
