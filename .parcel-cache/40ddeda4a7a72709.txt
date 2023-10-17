@@ -26,14 +26,14 @@
 77F:\Namste React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\bin133410006858244719 1
 74F:\Namste React\node_modules\caniuse-lite\data\features\rest-parameters.js133410006951834067 0
 55F:\Namste React\node_modules\css-tree\lib\syntax\pseudo133410006925481297 1
-20F:\Namste React\dist133410072736657202 1
+20F:\Namste React\dist133410822134445596 1
 60F:\Namste React\node_modules\cosmiconfig\dist\loaders.js.map133410006896853589 0
 51F:\Namste React\node_modules\react-refresh\babel.js133410006857596449 0
 72F:\Namste React\node_modules\@parcel\core\test\fixtures\config\subfolder133410006873399770 1
 26F:\Namste React\.gitignore133377126748940942 0
 60F:\Namste React\node_modules\caniuse-lite\data\regions\VU.js133410006954554123 0
 70F:\Namste React\node_modules\csso\node_modules\mdn-data\css\units.json133410006894995298 0
-22F:\Namste React\app.js133410072730126726 0
+22F:\Namste React\app.js133410821751416035 0
 53F:\Namste React\node_modules\csso\cjs\replace\Url.cjs133410006899123865 0
 46F:\Namste React\node_modules\parcel\src\bin.js133410006860214999 0
 60F:\Namste React\node_modules\css-tree\lib\lexer\structure.js133410006927499131 0
@@ -6073,5 +6073,5 @@
 40F:\Namste React\node_modules\.bin\parcel133410006957012291 0
 44F:\Namste React\node_modules\.bin\parcel.cmd133410006957012291 0
 44F:\Namste React\node_modules\.bin\parcel.ps1133410006957012291 0
-38F:\Namste React\dist\index.5baa4167.js133410072736472801 0
-42F:\Namste React\dist\index.5baa4167.js.map133410072736657202 0
+38F:\Namste React\dist\index.5baa4167.js133410822134133094 0
+42F:\Namste React\dist\index.5baa4167.js.map133410822134445596 0
